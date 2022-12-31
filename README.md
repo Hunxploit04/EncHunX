@@ -26,6 +26,6 @@ git clone https://github.com/Hunxploit04/EncHunX.git
 lalu masuk ke dalam directory **EncHunX**
 ```
 cd EncHunX
-jalankan ./paket dan ./encrypth
+jalankan ./paket dan ./enchunx
 ```
 dan tools siap di gunakan ^_^
