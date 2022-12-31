@@ -31,4 +31,6 @@ chmod +x enchunx
 ./install 
 ./enchunx
 ```
+untuk penggunaan encrypth nya kalian bisa masukan script atau file kalian ke dalam directory enchunx 
+
 dan tools siap di gunakan ^_^
