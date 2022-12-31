@@ -26,9 +26,9 @@ git clone https://github.com/Hunxploit04/EncHunX.git
 lalu masuk ke dalam directory **EncHunX**
 ```
 cd EncHunX
-chmod +x paket 
+chmod +x install 
 chmod +x enchunx
-./paket 
+./install 
 ./enchunx
 ```
 dan tools siap di gunakan ^_^
