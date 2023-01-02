@@ -26,10 +26,10 @@ git clone https://github.com/Hunxploit04/EncHunX.git
 lalu masuk ke dalam directory **EncHunX**
 ```
 cd EncHunX
-chmod +x install 
-chmod +x enchunx
-./install 
-./enchunx
+chmod +x install.sh 
+chmod +x enchunx.sh
+./install.sh
+./enchunx.sh
 ```
 untuk penggunaan encrypth nya kalian bisa masukan script atau file kalian ke dalam directory enchunx 
 
