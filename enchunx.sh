@@ -26,7 +26,7 @@ echo -e $green'''
 |   |___ | | |   ||     |_ |   _   ||       || | |   ||   _   |
 |_______||_|  |__||_______||__| |__||_______||_|  |__||__| |__|
 
-            © Author HunX04 | Encrypth Tools 2022
+            © Author HunX04 | Encrypth Tools 2023
 '''
 #=============================
 #Buat List Menu
