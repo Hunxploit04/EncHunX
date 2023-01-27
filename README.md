@@ -1,6 +1,5 @@
 ### EncHunX
 Tools ini di kembangkan untuk melakukan sebuah encrypth atau enkripsi sebuah file. 
-kalian juga bisa encrypt script disini ^_^
 
 <img src="https://github.com/Hunxploit04/EncHunX/blob/main/enchun.png">
 
