@@ -30,6 +30,8 @@ chmod +x enchunx.sh
 ./install.sh
 ./enchunx.sh
 ```
-untuk penggunaan encrypth nya kalian bisa masukan script atau file kalian ke dalam directory enchunx 
+untuk penggunaan encrypth nya kalian bisa masukan script atau file kalian ke dalam directory enchunx caranya :
+```
+mv namafile /home/EncHunX 
 
 dan tools siap di gunakan ^_^
